@@ -38,7 +38,6 @@ export function Countdown() {
 
   return (
     <div>
-
       <div className={styles.countdownContainer}>
         <div>
           <span>{minuteLeft}</span>
@@ -84,8 +83,6 @@ export function Countdown() {
           )}
         </>
       )}
-
-      
     </div>
   );
 }
