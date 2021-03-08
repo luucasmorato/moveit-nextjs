@@ -11,3 +11,7 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Move It
+
+Studies show that after 25 minutes of focusing on work, a 5-minute break is recommended to increase your productivity. This app allows you at each 25-minute interval, you can do a simple exercise to receive experience and move to the next level.
